@@ -33,7 +33,7 @@ The following are the system requirements to have the programs running.
  - [x] Navigate to the project directory
  - [x] Install dependencies, (node).
  - [x] Open the project on the Text Editor and run live server.
- -[x] The program runs and outputs results on the browser.
+ - [x] The program runs and outputs results on the browser.
 
 ## Author
 **John Kimani**
